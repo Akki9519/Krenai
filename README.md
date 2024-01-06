@@ -1,3 +1,4 @@
+![Screenshot 2024-01-06 211108](https://github.com/Akki9519/Krenai/assets/103363760/7e786ae7-8e21-47a1-a748-e4c928b46faf)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
